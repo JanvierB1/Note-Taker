@@ -2,9 +2,12 @@
 ![Github License](https://img.shields.io/badge/license-MIT-green)
 ## Description
 This project was a challenging one using express for the first time. This app helps those who are busy enough to where they forget things and have to take notes to remember things. It is intented for anyone really who like to write their things down. 
+
+Note Taker app link: https://nameless-river-68440.herokuapp.com/notes
 ___
 ## Table of Contents
 * [Installation](#installation)
+* [Screenshots](#screenshot)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -14,8 +17,15 @@ ___
 ## Installation
 To install the needed dependencies, run the following commands:
 ```
- none
+ npm i 
+ npm install express
+ npm install uniqid
 ```
+___
+## Screenshot
+![](./app/public/assets/images/Screenshot%202022-12-01%20at%2010.55.54%20PM.png)
+
+Note Taker deployed link: https://nameless-river-68440.herokuapp.com/notes
 ___
 ## Usage
 This project is fairly easy to use, all a user has to do is follow the link to the deployed site and start taking notes!
